@@ -1,0 +1,33 @@
+.container {
+  width: 1040px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.columns-container {
+  display: flex;
+}
+
+.one {
+  display: flex;
+  flex-direction: row-reverse;
+
+}
+
+.columns-container .left-column {
+  width: 440px;
+  margin-right: 80px;
+}
+
+.columns-container .right-column {
+  width: 440px;
+}
+
+h1 {
+margin-left: 110px;
+}
+
+.btn {
+  margin-left: 110px;
+  margin-top: 25px;
+}
